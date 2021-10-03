@@ -1,11 +1,17 @@
-# plotlydeploy
+# No Shows
 
-## Overview
-We needed to help complete a panel for demographic information that also includes the ability to visualize the bacterial data for each volunteer on a dashboard.
+## Instructions
 
-1. Deliverable 1: Create a Horizontal Bar Chart
-2. Deliverable 2: Create a Bubble Chart
-3. Deliverable 3: Create a Gauge Chart
-4. Deliverable 4: Customize the Dashboard
+* Create a line chart that compares the ages of patients against the total number of appointments. Then split this graph based upon gender and whether the patient showed up to their appointment. For this first step, you'll need to convert `Age` from a measure to a dimension.
 
-![screenshot](dashboard.png)
+* Create a pair of bar charts that compare how many patients showed up to appointments versus how many were no-shows in different neighborhoods.
+
+* Create a stacked bar chart that compares no-shows to those who made it to appointment based upon the day of the week.
+
+* Create a pair of line graphs that compare age versus diabetes in both men and women.
+
+* Create a pair of line graphs that compare age versus alcoholism in both men and women.
+
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.
